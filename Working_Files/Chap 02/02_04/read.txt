@@ -1,0 +1,2 @@
+Here's data that needs to be peeled apart. Looking at the CityScape project, there's samantha, who's the team lead, and on the team there's terri, morten, lance and anitra. 
+this is great to read if we just want to see who's on each team, but what if we wanted to sort this data by name, or do some analysis to see who's on more than one team, or who'son three or more teams? we can't do that so easily with this data as it is 
